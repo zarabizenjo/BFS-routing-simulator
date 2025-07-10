@@ -5,4 +5,6 @@
 3. a white screen will appear and from there you can add edges and nodes. identify the source and destination node and click on Run BFS.
 4. your shortest path will be highlighted in Red 
 5. your traversal steps will be logged at the bottom.
-further details are mentioned in the Report and Demo video uploded in the folder.
+6. further details are mentioned in the Report and Demo video uploded in the folder.
+7. vm option:
+8. --module-path "C:\Users\Hp\Downloads\openjfx-24.0.1_windows-x64_bin-sdk\javafx-sdk-24.0.1\lib" --add-modules javafx.controls,javafx.fxml
