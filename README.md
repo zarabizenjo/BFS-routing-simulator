@@ -6,5 +6,7 @@
 4. your shortest path will be highlighted in Red 
 5. your traversal steps will be logged at the bottom.
 6. further details are mentioned in the Report and Demo video uploded in the folder.
-7. vm option:
-8. --module-path "C:\Users\Hp\Downloads\openjfx-24.0.1_windows-x64_bin-sdk\javafx-sdk-24.0.1\lib" --add-modules javafx.controls,javafx.fxml
+7. video link:
+8. https://youtu.be/KLdJv49l3mw
+9. vm option:
+10. --module-path "C:\Users\Hp\Downloads\openjfx-24.0.1_windows-x64_bin-sdk\javafx-sdk-24.0.1\lib" --add-modules javafx.controls,javafx.fxml
